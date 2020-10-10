@@ -1,0 +1,2 @@
+# capacity-js
+Javascript bindings
